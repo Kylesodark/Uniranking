@@ -85,10 +85,10 @@ footer {
     max-width: 100%; 
 }
 .social-links img.facebook-logo {
-    width: 30px; /* Điều chỉnh kích thước đường kính theo ý muốn */
+    width: 30px; 
     height: 30px;
-    border-radius: 50%; /* Tạo hình tròn */
-    object-fit: cover; /* Đảm bảo hình ảnh lấp đầy hình tròn mà không bị méo */
-    vertical-align: middle; /* Căn giữa theo chiều dọc với chữ (nếu có) */
-    margin-right: 5px; /* Tạo khoảng cách với chữ (nếu có) */
+    border-radius: 800%; 
+    object-fit: cover; 
+    vertical-align: middle; 
+    margin-right: 5px; 
 }
